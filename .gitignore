@@ -1,0 +1,4 @@
+Logs/
+myenv/
+*.pyc
+crawler/riotAPICrawler/Logs/testing.log
